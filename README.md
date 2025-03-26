@@ -12,6 +12,6 @@ Yeah.
 ...probably? I'm not sure yet. I'm enjoying it now and I've enjoyed showing others how to code, and make Discord bots for a long time.
 
 # Special Thanks
-- deadcakemix
+- [DeadCakeMix](https://github.com/totcakemix/)
 - IGP and everyone in his server
 - anyone cool enough to contribute to this mess
